@@ -1,0 +1,41 @@
+{
+    "right_button": {
+        "describe": "右键",
+        "key": "up",
+        "location": [
+            383,
+            687
+        ],
+        "status": false
+    },
+    "middle_button": {
+        "describe": "中键",
+        "key": "tab",
+        "location": [
+            207,
+            689
+        ],
+        "status": false
+    },
+    "left_button": {
+        "describe": "左键",
+        "key": "down",
+        "location": [
+            48,
+            689
+        ],
+        "status": false
+    },
+    "next_button": {
+        "describe": "next键",
+        "key": "enter",
+        "location": [
+            110,
+            636
+        ],
+        "status": false
+    },
+    "window_title": "不背单词",
+    "configuration": false,
+    "confirm": "y"
+}
